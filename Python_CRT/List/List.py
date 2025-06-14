@@ -1,0 +1,25 @@
+#creating and accessing the list
+Num_list=[10,20,30,40,50,60,70,80,90]
+print(Num_list)
+print("Accessing the list elements using +ve indexing:")
+print(Num_list[0])
+print(Num_list[1])
+print(Num_list[2])
+print(Num_list[3])
+print(Num_list[4])
+print(Num_list[5])
+print(Num_list[6])
+print(Num_list[7])
+print(Num_list[8])
+print("Accessing the list elements using -ve indexing:")
+print(Num_list[-9])
+print(Num_list[-8])
+print(Num_list[-7])
+print(Num_list[-6])
+print(Num_list[-5])
+print(Num_list[-4])
+print(Num_list[-3])
+print(Num_list[-2])
+print(Num_list[-1])
+
+
