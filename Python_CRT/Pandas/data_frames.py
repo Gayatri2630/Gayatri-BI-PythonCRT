@@ -1,0 +1,19 @@
+import pandas as pd
+Data={
+    'std1':
+    {
+    'Name':'Jyothi',
+    'Branch':'Bio-Informatics',
+    'ID':10001,
+    'Skills':['python','dsa','sql','c']
+    },
+    'std2':{
+    'Name':'Madhuri',
+    'Branch':'Bio-Informatics',
+    'ID':10002,
+    'Skills':['python','dsa','sql','c']
+    }
+}
+Data=pd.DataFrame(Data)
+print(Data)
+print(type(Data))
